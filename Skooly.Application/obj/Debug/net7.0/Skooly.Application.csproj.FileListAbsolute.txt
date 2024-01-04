@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\bin\Debug\net7.0\Skooly.Application.deps.json
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\bin\Debug\net7.0\Skooly.Application.dll
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\bin\Debug\net7.0\Skooly.Application.pdb
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.AssemblyInfo.cs
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.dll
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\refint\Skooly.Application.dll
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.pdb
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\ref\Skooly.Application.dll
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\bin\Debug\net7.0\Skooly.Domain.dll
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\bin\Debug\net7.0\Skooly.Domain.pdb
+C:\Users\USER\Documents\Work\Practice\C#\School-Management\Skooly\Skooly.Application\obj\Debug\net7.0\Skooly.Application.csproj.CopyComplete

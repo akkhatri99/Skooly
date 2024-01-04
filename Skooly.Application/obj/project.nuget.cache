@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qwoooe5PVvv1w6vHESsJ4fH19YeEQcoh5LVN48sWBnNG4fx35vVRbfryPgFrrMwyUpZ9pPcyKmXcSUuiEDAIRA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Work\\Practice\\C#\\School-Management\\Skooly\\Skooly.Application\\Skooly.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
